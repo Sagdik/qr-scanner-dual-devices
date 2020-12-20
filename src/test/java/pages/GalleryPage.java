@@ -1,12 +1,8 @@
 package pages;
 
 import baseClass.BasePage;
-import com.sun.xml.internal.rngom.parse.host.Base;
-import io.appium.java_client.MobileElement;
-import io.appium.java_client.pagefactory.AndroidFindBy;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
-import sun.jvm.hotspot.debugger.Page;
 
 import java.util.concurrent.TimeUnit;
 

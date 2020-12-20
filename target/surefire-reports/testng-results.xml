@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="39985" started-at="2020-12-20T23:55:23 MYT" finished-at="2020-12-20T23:56:03 MYT">
+    <groups>
+    </groups>
+    <test name="/Users/stripathi/IdeaProjects/AndroidScanner/src/test/java/testCases/QrScannerTestCases.java" duration-ms="39985" started-at="2020-12-20T23:55:23 MYT" finished-at="2020-12-20T23:56:03 MYT">
+      <class name="testCases.QrScannerTestCases">
+        <test-method status="PASS" signature="launchGalleryApp()[pri:0, instance:testCases.QrScannerTestCases@7b49cea0]" name="launchGalleryApp" is-config="true" duration-ms="19575" started-at="2020-12-20T23:55:23 MYT" finished-at="2020-12-20T23:55:43 MYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGalleryApp -->
+        <test-method status="PASS" signature="startScannerApp()[pri:0, instance:testCases.QrScannerTestCases@7b49cea0]" name="startScannerApp" is-config="true" duration-ms="9313" started-at="2020-12-20T23:55:43 MYT" finished-at="2020-12-20T23:55:52 MYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startScannerApp -->
+        <test-method status="PASS" signature="performAppgallery()[pri:0, instance:testCases.QrScannerTestCases@7b49cea0]" name="performAppgallery" duration-ms="10539" started-at="2020-12-20T23:55:52 MYT" finished-at="2020-12-20T23:56:03 MYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performAppgallery -->
+        <test-method status="PASS" signature="closeScannerApp()[pri:0, instance:testCases.QrScannerTestCases@7b49cea0]" name="closeScannerApp" is-config="true" duration-ms="524" started-at="2020-12-20T23:56:03 MYT" finished-at="2020-12-20T23:56:03 MYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeScannerApp -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testCases.QrScannerTestCases@7b49cea0]" name="closeApp" is-config="true" duration-ms="0" started-at="2020-12-20T23:56:03 MYT" finished-at="2020-12-20T23:56:03 MYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testCases.QrScannerTestCases -->
+    </test> <!-- /Users/stripathi/IdeaProjects/AndroidScanner/src/test/java/testCases/QrScannerTestCases.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

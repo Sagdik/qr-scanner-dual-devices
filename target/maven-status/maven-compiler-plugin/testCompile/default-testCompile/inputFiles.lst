@@ -1,1 +1,5 @@
-/Users/stripathi/IdeaProjects/AndroidScanner/src/test/java/Base.java
+/Users/stripathi/Documents/GitHub/qr-scanner-dual-devices/src/test/java/pages/HomePage.java
+/Users/stripathi/Documents/GitHub/qr-scanner-dual-devices/src/test/java/baseClass/BasePage.java
+/Users/stripathi/Documents/GitHub/qr-scanner-dual-devices/src/test/java/pages/GalleryPage.java
+/Users/stripathi/Documents/GitHub/qr-scanner-dual-devices/src/test/java/testCases/QrScannerTestCases.java
+/Users/stripathi/Documents/GitHub/qr-scanner-dual-devices/src/test/java/pages/HomePageDefaultImp.java
