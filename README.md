@@ -1,6 +1,6 @@
 # qr-scanner-dual-devices
 
-*Requirement
+**Requirement
 
 1.Two different devices
 2.Two appium server which you can you directly with below command
@@ -15,7 +15,7 @@ b).Bandit Scan
 
 5.Make devices parallel to each other
 
-*How It work:-
+**How It work:-
 
 When your run test by using testNG.xml app run with 2 different devices .
 1 devices open Gallery and open your QR for scanning.
