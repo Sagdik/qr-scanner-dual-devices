@@ -17,6 +17,7 @@ b).Bandit Scan
 
 # How It work:-
 
-When your run test by using testNG.xml app run with 2 different devices .
-1 devices open Gallery and open your QR for scanning.
-2 Devices open QR scanner and Scan the app 
+When you run test by using testNG.xml then app run on 2 different devices .
+
+1 devices open Gallery and open your QR Image for scanning.
+2 Devices open QR scanner and Scan the QR Image 
